@@ -96,16 +96,6 @@ The **Blinkit Data Analysis Dashboard** is a Power BI project that provides comp
 
 ---
 
-## 📂 Project Structure
-
-```id="blnk01"
-├── data/                # Dataset files
-├── dashboard/           # Power BI file (.pbix)
-├── images/              # Dashboard screenshots
-└── README.md            # Documentation
-
----
-
 ## 📈 Key Insights
 
 * **Supermarket Type 1** is the top-performing outlet type in both sales and ratings.
@@ -146,5 +136,3 @@ Contributions are welcome! Feel free to fork this repository and enhance the das
 For feedback or collaboration, feel free to reach out at https://www.linkedin.com/in/ashwitha-gogikar-35839a1b5/
 
 ---
-
-⭐ *If you found this project useful, consider giving it a star!*
